@@ -1047,6 +1047,10 @@ AbbildungenzurN00Wied
 Abbildungundbes00Phil
 abbildungundbesc00hepp
 abbottbiology00abborich
+AbbottCobbmater00Abbo
+AbbottCobbmater00AbboA
+AbbottCobbmater00AbboB
+AbbottCobbmater00AbboC
 abbreviationsemp1330bart
 abcbuttermakingh00burc
 abcinbuttermakin00monr
@@ -1658,6 +1662,7 @@ accountoffisheso00gn
 accountoffloweri00galprich
 accountofgenusse00praeuoft
 accountofgenusse1967prae
+accountofhabitsc00boys
 accountofhistory00bostrich
 accountofindiant00schu
 accountofinsects00maskrich
@@ -1982,6 +1987,7 @@ actesdelasocitl901938soci
 actesdelasocitli01soci
 actesdelasocitli02soci
 actesdelasocitli1061soci
+actesdelasocitli1071soci
 actesdelasocitli27soci
 actesducongrsi1867inte
 actesducongrsi1887inte
@@ -11901,6 +11907,7 @@ atl4103.0001.001.umich.edu
 atlabirdatlasfall1987
 atlantebotanicos00brio
 atlanteornitolog00arri
+atlanteperservir1872arco
 atlanticcoastalf00unit
 atlanticcontinen00emer
 atlantichistoryo00outh
@@ -12194,6 +12201,7 @@ attidellaccademi39gio
 attidellaccademi4118acca
 attidellaccademi4171acca
 attidellaccademi4181acca
+attidellaccademi4187acca
 attidellaccademi4191acca
 attidellaccademi41gio
 attidellaccademi4201acca
@@ -12575,6 +12583,7 @@ australasianfrui00cricrich
 Australasiansci1
 AustralasiansciVolI
 AustralasiansciVolIA
+AustralasiansciVolIB
 australavianre1191213math
 australavianre2191315math
 australavianre3191519math
@@ -12986,6 +12995,7 @@ b21301141_0016
 b21301177
 b21301220
 b21301347
+b21301360
 b21301451_0001
 b21301451_0002
 b21301487
@@ -13033,17 +13043,24 @@ b2130466x_0001
 b2130466x_0002
 b21304786
 b21305377
+b2130547x_0001
+b2130547x_0002
 b21305481
+b21305638
 b21305705
 b21305730
 b21305924
 b21305936_0001
 b21305936_0002
 b21305936_0003
+b21306114
+b21306126
 b21306187
 b21306229
+b21306278
 b2130659x_0001
 b2130659x_0003
+b2130676x_0001
 b21307040
 b21307155_0001
 b21307155_0002
@@ -13072,6 +13089,7 @@ b21352653_0002
 b21352732
 b21352744
 b21352756
+b21352768
 b2135277x_0001
 b2135277x_0002
 b2135313x
@@ -13266,10 +13284,12 @@ b21498118
 b21498271
 b21498842
 b21504799_0001
+b21504799_0002
 b21505731
 b21525043
 b2152516x
 b21526370
+b21526643
 b21526965
 b21527787
 b21529693
@@ -13655,6 +13675,7 @@ b24749370
 b2475013x
 b24750268
 b2475125x
+b24756039
 b24756301
 b24756349
 b24756374
@@ -13709,6 +13730,7 @@ b24915968
 b2491597x
 b24915981
 b24915993
+b24916006
 b24916018
 b2491602x
 b24916031
@@ -13958,6 +13980,54 @@ barrierbeachessa00lloy
 barrierfactorsin1142smul
 barrierfreeacces00albe
 barriionconserva00roelrich
+BarrSugdenmater00Barr
+BarrSugdenmater00BarrA
+BarrSugdenmater00BarrAA
+BarrSugdenmater00BarrAB
+BarrSugdenmater00BarrAC
+BarrSugdenmater00BarrAD
+BarrSugdenmater00BarrAE
+BarrSugdenmater00BarrAF
+BarrSugdenmater00BarrAG
+BarrSugdenmater00BarrAH
+BarrSugdenmater00BarrAI
+BarrSugdenmater00BarrAJ
+BarrSugdenmater00BarrAK
+BarrSugdenmater00BarrAL
+BarrSugdenmater00BarrAM
+BarrSugdenmater00BarrAN
+BarrSugdenmater00BarrAO
+BarrSugdenmater00BarrAP
+BarrSugdenmater00BarrAQ
+BarrSugdenmater00BarrAR
+BarrSugdenmater00BarrAS
+BarrSugdenmater00BarrAT
+BarrSugdenmater00BarrAU
+BarrSugdenmater00BarrB
+BarrSugdenmater00BarrC
+BarrSugdenmater00BarrD
+BarrSugdenmater00BarrE
+BarrSugdenmater00BarrF
+BarrSugdenmater00BarrG
+BarrSugdenmater00BarrH
+BarrSugdenmater00BarrI
+BarrSugdenmater00BarrJ
+BarrSugdenmater00BarrK
+BarrSugdenmater00BarrL
+BarrSugdenmater00BarrM
+BarrSugdenmater00BarrN
+BarrSugdenmater00BarrO
+BarrSugdenmater00BarrP
+BarrSugdenmater00BarrQ
+BarrSugdenmater00BarrR
+BarrSugdenmater00BarrS
+BarrSugdenmater00BarrT
+BarrSugdenmater00BarrU
+BarrSugdenmater00BarrV
+BarrSugdenmater00BarrW
+BarrSugdenmater00BarrX
+BarrSugdenmater00BarrY
+BarrSugdenmater00BarrZ
 barrsugdensspri1866barr_0
 barrsugdensspri1867barr_0
 barrsugdensspri1868barr_0
@@ -14289,6 +14359,7 @@ beekeepingdiscus01phil
 beekeepingforbeg00brow
 beekeepingforbeg36vans
 beekeepingforpro00cott
+beekeepingforsed00pott
 beekeepingincali100ecke
 beekeepinginilli1000jayc
 beekeepinginmidw1125jayc
@@ -16641,6 +16712,7 @@ biologicalstudie00bostrich
 biologicalstudie00sedg
 biologicalstudie1336hill
 biologicalstudyo00pess
+Biologicalsurve00Wetm
 biologicalsurvey00mich
 biologicalsurvey00newy
 biologicalsurvey00newy_0
@@ -18464,6 +18536,7 @@ bombayducksaccou00dewa
 bombayducksaccou00dewarich
 bombayfloraorsho00dalzrich
 bombsatbikinioff00unit
+bombyxmorilinnus00davi
 bomexbulletinpre00unit
 bomextemporaryar00dela
 bommermethodofma00mary
@@ -19862,6 +19935,11 @@ breviora5362harv
 breviora5372harv
 breviora5382harv
 breviora5392harv
+breviora5402harv
+breviora5412harv
+breviora5432harv
+breviora5452harv
+breviora5462harv
 breviora67120harv
 brewsterswarbler00faxo
 brewsterswarbler00faxon
@@ -26191,6 +26269,7 @@ canadiannational10329cana
 canadiannatural03natu
 canadiannatural08natu
 canadiannaturali00goss
+canadiannaturali00goss_0
 canadiannaturali00gossrich
 canadiannaturali00gossuoft
 canadiannaturali00natu
@@ -26840,6 +26919,7 @@ CAT10410964
 CAT10410979
 CAT10411199
 CAT10415236
+CAT10415761
 CAT10509377
 CAT10522817
 CAT10525566
@@ -26856,6 +26936,7 @@ CAT10666511
 CAT10666932
 CAT10667167
 CAT10668994
+CAT10671419
 CAT10676960
 CAT10679509
 CAT10684584
@@ -26871,6 +26952,9 @@ CAT10689660
 CAT10693937
 CAT10695807
 CAT10698098
+CAT10698417
+CAT10698648
+CAT10699418
 CAT10701402
 CAT10702918
 CAT10703023
@@ -26882,6 +26966,7 @@ CAT10741233
 CAT10743683
 CAT10744994
 CAT10745841
+CAT10746348
 CAT10746351
 CAT10747324
 CAT10748045
@@ -28315,9 +28400,13 @@ CAT31284138
 CAT31284140
 CAT31284143
 CAT31284145
+CAT31284146
 CAT31284147
 CAT31284150
+CAT31284152
 CAT31284154
+CAT31284155
+CAT31284156
 CAT31284160
 CAT31284161
 CAT31284163
@@ -28333,7 +28422,24 @@ CAT31284250
 CAT31284251
 CAT31284254
 CAT31284291
+CAT31284312
+CAT31284317
+CAT31284318
+CAT31284321
+CAT31284322
+CAT31284325
+CAT31284332
+CAT31284333
+CAT31284334
+CAT31284335
+CAT31284336
+CAT31284337
+CAT31284338
+CAT31284339
+CAT31284340
 CAT31284341
+CAT31284342
+CAT31284343
 CAT31284351
 CAT31284369
 CAT31284386
@@ -28581,6 +28687,7 @@ CAT31284845
 CAT31284846
 CAT31284847
 CAT31284848
+CAT31284857
 CAT31284862
 CAT31284863
 CAT31284864
@@ -28674,6 +28781,7 @@ CAT31284972
 CAT31284973
 CAT31284974
 CAT31284975
+CAT31284976
 CAT31284978
 CAT31284979
 CAT31284996
@@ -35744,6 +35852,7 @@ CAT31296032
 CAT31296038
 CAT31296040
 CAT31296072
+CAT31296087
 CAT31296100
 CAT31296115
 CAT31296193
@@ -36282,6 +36391,7 @@ CAT31318322
 CAT31318323
 CAT31318324
 CAT31318378
+CAT31320762
 CAT31320764
 CAT31320766
 CAT31320767
@@ -36296,6 +36406,7 @@ CAT31320931
 CAT31320932
 CAT31320933
 CAT31320934
+CAT31320936
 CAT31320938
 CAT31321027
 CAT31321113
@@ -36348,6 +36459,7 @@ CAT31325170
 CAT31325343
 CAT31326269
 CAT31326274
+CAT31326399
 CAT31326524
 CAT31329758
 CAT70292401
@@ -36379,6 +36491,7 @@ CAT79724164
 CAT79727322
 CAT80732439
 CAT80733794
+CAT80734603
 CAT80736616
 CAT80737009
 CAT80742483
@@ -36402,7 +36515,9 @@ CAT83779766002
 CAT83779766003
 CAT83784595
 CAT83785671
+CAT83785764
 CAT83787337
+CAT83788165
 CAT83790017
 CAT83798281
 CAT84795967
@@ -36413,6 +36528,8 @@ CAT84808996
 CAT84813163
 CAT84813606
 CAT85807874
+CAT85819439
+CAT85819533
 CAT85819590
 CAT85820261
 CAT85822114
@@ -36428,10 +36545,12 @@ CAT85842627
 CAT85844269
 CAT86842775
 CAT86842972
+CAT86856725
 CAT86858595
 CAT86858596
 CAT86863977
 CAT86864190
+CAT86864198
 CAT86864199
 CAT86864224
 CAT86864225
@@ -36461,12 +36580,14 @@ CAT87869554
 CAT87869570
 CAT87869577
 CAT87872431
+CAT87873257
 CAT87878945
 CAT87881358
 CAT87881361
 CAT87882180
 CAT87882225
 CAT87882485
+CAT87882686
 CAT87884659
 CAT87886794
 CAT88218490
@@ -36520,6 +36641,7 @@ CAT88887164044
 CAT88887164045
 CAT88892294
 CAT88892469
+CAT88892475
 CAT88892600
 CAT88892939
 CAT88893085
@@ -36551,6 +36673,7 @@ CAT89908828
 CAT89912872
 CAT89914718
 CAT89917257
+CAT89917505
 CAT89917538
 CAT89917865
 CAT89917867
@@ -36578,6 +36701,7 @@ CAT91946765
 CAT91946911
 CAT91949270
 CAT91949333
+CAT91949390
 CAT91949449
 CAT91949558
 CAT91949559
@@ -36602,6 +36726,7 @@ CAT91960247
 CAT91960387
 CAT91960396
 CAT91960397
+CAT91960576
 CAT91961584
 CAT91971062
 CAT92272706
@@ -37007,11 +37132,13 @@ CAT92967538007
 CAT92967538008
 CAT92967538009
 CAT92967538010
+CAT92967835
 CAT92973319
 CAT92981910
 CAT93500531
 CAT93501038
 CAT93501984
+CAT93502250
 CAT93502416
 CAT93502624
 CAT93503463
@@ -37028,6 +37155,7 @@ CAT93978911
 CAT93989836
 CAT93989847
 CAT93990067
+CAT93990537
 CAT93990906
 CAT93996033
 CAT93996331
@@ -38487,6 +38615,7 @@ catalogueofwesti00poul
 catalogueofwesti01cory
 catalogueofwillo1888rump
 catalogueofworks02brit
+catalogueofworks1907brit
 catalogueofworks6020brit
 catalogueoh00newb
 catalogueoneida00knie
@@ -39479,6 +39608,7 @@ chemicalactiviti00gale
 chemicalanalyses00unit
 chemicalanalyses773holl
 chemicalanalysis701lecl
+chemicalaspectso00mart
 chemicalbiologic00moor
 chemicalchangesi1115mcdo
 chemicalcomposit00alworich
@@ -39494,6 +39624,7 @@ chemicalcomposit38wayn
 chemicalcomposit451chap
 chemicalcomposit452alwo
 chemicalcomposit87chac
+chemicalcomposit88alwo
 chemicalcompsiti00haywrich
 chemicalcons01plimrich
 chemicalconstitu01plimuoft
@@ -39634,6 +39765,7 @@ cheyenne91dors
 cheyenne92dors
 cheynestokesresp00gibs
 CheYtognathespr00Germ
+chezlesbetsileos00dubo
 chicagoacademyof00bakerich
 chicagoequestria00chic
 chicagoflexibles00chic
@@ -42300,6 +42432,7 @@ cihm_83922
 cihm_83923
 cihm_83942
 cihm_83962
+cihm_83970
 cihm_83976
 cihm_83984
 cihm_83985
@@ -46788,6 +46921,7 @@ cooperativeecono2330unit
 cooperativeecono2331unit
 cooperativeecono2332unit
 cooperativeecono2333unit
+cooperativeecono2334unit
 cooperativeecono2335unit
 cooperativeecono2336unit
 cooperativeecono2337unit
@@ -48026,6 +48160,12 @@ cryptogamicplant04bota
 cryptogamicplant07bota
 crystalfallsiron00clem
 crystallographic00paig
+CSBrentSeedComa00CSBr
+CSBrentSeedComa00CSBrA
+CSBrentSeedComa00CSBrB
+CSBrentSeedComa00CSBrC
+CSBrentSeedComa00CSBrD
+CSBrentSeedComa00CSBrE
 csfa777220765
 csfa788562626
 csfa788562626Alpha
@@ -55492,6 +55632,8 @@ deutschefaunaode00bork
 deutscheflorapha00kars
 deutscheforstbot1874nr
 deutschegartenze01witt
+deutscheobstbauz6019deut
+deutscheobstbauz6119deut
 deutschepflanzen00gras
 deutschesarchivf01meck
 deutschesarchivf02meck
@@ -55807,6 +55949,7 @@ diapriidae44kief
 diapsidreptilefr00reis
 Diariesfieldnot1Ladd
 Diariesfieldnot2Ladd
+diariodiunviaggi1872arco
 Diary186500Dall
 Diary1865186700Dall
 Diary1866May25100Dall
@@ -57140,6 +57283,7 @@ dieselagineender00gold
 diesensorischenf00pfl
 diesetieredesdeu00floe
 diesingvgelder00klei
+diesiphoneaevert00piaj
 diesozialisierun00kautuoft
 diespinnenamerik01keys
 diespinnenamerik02keys
@@ -59519,6 +59663,7 @@ ed2advancementof00bacouoft
 ed2illustratedflo02brit
 edaphicfactorsth30fish
 eddybreeding00austrich
+eddyonbeeculture00eddy
 edelsteinkundeei00baueuoft
 edgeersexperien00geer
 edgeersexperienc00geer
@@ -59918,6 +60063,7 @@ effectsofmarineo00mura
 effectsofmenhade00hath
 effectsofmenhade00kend
 effectsofmineral00brolrich
+effectsofmolecul00poch
 effectsofmuddycr00ingm
 effectsofmutilat1011brow
 effectsofnicotin938mcin
@@ -61581,6 +61727,8 @@ entomologistsrec1081996tutt
 entomologistsrec1091997tutt
 entomologistsrec1101998tutt
 entomologistsrec111899tutt
+entomologistsrec1152tutt
+entomologistsrec1162tutt
 entomologistsrec118901891tutt
 entomologistsrec121900tut
 entomologistsrec121900tutt
@@ -65428,6 +65576,7 @@ Fieldnotesinclu00Bail
 FieldnotesKansa00Bail
 Fieldnotesmaps100Coop
 Fieldnotesmapsf00Coop
+Fieldnotesmapsf00CoopA
 FieldnotesMaryl00Bail
 FieldnotesMexic00Pete
 FieldnotesMexic00PeteA
@@ -70245,6 +70394,7 @@ fws0busfi8122usfi
 fwsobsusfi8004usfi
 fy77subseaslowsc00gord
 gadiformestresko00svet
+gadodepurosangre00unit
 gaeaexcursoriage00gieb
 gaelicnamesofbea00forbuoft
 gaelicnamesofpla00came
@@ -71075,6 +71225,10 @@ gardinerspriceli1895john
 gardinersspecial1889john
 gardinersspecial1892jgar
 gardinerssuperbf1891john
+GardnerSeedComp00Gard
+GardnerSeedComp00GardA
+GardnerSeedComp00GardB
+GardnerSeedComp00GardC
 garenganzeorsev00arno
 gareystragedypru1890thom
 garfieldplantsp00heidrich
@@ -71446,6 +71600,13 @@ generalbotanyfor00densrich
 generalbotanyint00tran
 generalcat00newb
 generalcatalogof1906chas
+Generalcatalogu00Chin
+Generalcatalogu00ChinA
+Generalcatalogu00ChinB
+Generalcatalogu00ChinC
+Generalcatalogu00ChinD
+Generalcatalogu00ChinE
+Generalcatalogu1955Chin
 generalcatalogue00brow
 generalcatalogue00deerrich
 generalcatalogue00font
@@ -73516,9 +73677,11 @@ gri_33125008413433
 gri_33125008413490
 gri_33125008413557
 gri_33125008463420
+gri_33125008502920
 gri_33125008530400
 gri_33125008634194
 gri_33125008641231
+gri_33125008673234
 gri_33125008688521
 gri_33125008802049
 gri_33125009321783
@@ -73550,6 +73713,7 @@ gri_33125012607046
 gri_33125012613895
 gri_33125012911935
 gri_33125012912057
+gri_33125012912230
 gri_33125012916900
 gri_33125012916967
 gri_33125012917023
@@ -74246,6 +74410,9 @@ gwknorrsverlusti03knor
 gwknorrsverlusti04knor
 gwknorrsverlusti51774knor
 gwknorrsverlusti61775knor
+GWWhitneyComate00GWWh
+GWWhitneyComate00GWWhA
+GWWhitneyComate00GWWhB
 gymnophoinaamphi37nied
 gymnoplea00gies
 gymnospermsstruc00cham
@@ -82050,6 +82217,7 @@ insectenemiesofw273keen
 insectenemiesofw273keen_0
 insectenemiesofw273keen_1
 insectepisodesof00budgrich
+Insectes00Figu
 insectes01oliv
 insectes02oliv
 insectes03oliv
@@ -82100,6 +82268,7 @@ insectlife02unit
 insectlife03unit
 insectlife04unit
 insectlife05unit
+insectlife06unit
 insectlife07unit
 insectlife1188889unit
 insectlife2188990unit
@@ -83860,6 +84029,7 @@ jahrbuchderka661916unse
 jahrbuchderka671917unse
 jahrbuchderka681918unse
 jahrbuchderka691919unse
+jahrbuchderkaise4185kais
 jahrbuchderkaisk11850unse
 jahrbuchderkaisk22unse
 jahrbuchderkaisk23unse
@@ -84730,6 +84900,9 @@ josephijacobiple00plen
 josephijacobiple1785plen
 josephipittontou01tour
 josephipittontou02tour
+josephipittontou11719tour
+josephipittontou21719tour
+josephipittontou31719tour
 JosephNelsonRos00Rose
 josephwvestalssu1872jose
 josephwvestalstr1872jose
@@ -85267,6 +85440,7 @@ journalof313419261927bomb
 journalof343419301931bomb
 journalof361219321933bomb
 journalof363431361936bomb
+journalof373419341935bomb
 journalof391219361937bomb
 journalof403419381939bomb
 journalof404219041905roya
@@ -85485,6 +85659,7 @@ journalofbo4419431944bomb
 journalofbo4519441945bomb
 journalofbo4619461947bomb
 journalofbo4719471948bomb
+journalofbo4819481949bomb
 journalofbo4919501951bomb
 journalofbo5019511952bomb
 journalofbo5119521953bomb
@@ -85590,7 +85765,11 @@ journalofbombay751978bomb
 journalofbombay761979bomb
 journalofbombay771980bomb
 journalofbombay781981bomb
+journalofbombay791982bomb
+journalofbombay801983bomb
+journalofbombay861989bomb
 journalofbombay881991bomb
+journalofbombay891992bomb
 journalofbombay901993bomb
 journalofbombay921995bomb
 journalofbombay931996bomb
@@ -88945,6 +89124,15 @@ lawofinheritance00stur
 lawofrhythmicbre00fletiala
 lawofstormsvario00rousrich
 lawofvitaltransf00reed
+LawrancequotsNu00Lawr
+LawrancequotsNu00LawrA
+LawrancequotsNu00LawrB
+LawrancequotsNu00LawrC
+LawrancequotsNu00LawrD
+LawrancequotsNu00LawrE
+LawrancequotsNu00LawrF
+LawrancequotsNu00LawrG
+LawrancequotsNu00LawrH
 lawregulatingpub00illi
 lawsaffectingsta00kent
 lawsapplicableto00unitrich
@@ -88962,6 +89150,7 @@ lawsofillinoisre00illi
 lawsofnevadadire00neva
 lawsofnewjerseyr00newj
 lawsoforegonpert00oreg
+lawsofstateofil00illi
 lawsofstateofsou00sout
 lawsordinancesre00balt
 lawspertainingto00oreg
@@ -94566,6 +94755,10 @@ mcgregorbrother1895mcgr_1
 mcgregorbrothers1891mcgr
 mcgregorbrothers1895mcgr
 mcgregorsfloralg1895mcgr
+McHutchinsonCom00McHu
+McHutchinsonCom00McHuA
+McHutchinsonCom00McHuB
+McHutchinsonCom00McHuC
 mcintoshcosperio1848mcin
 Mclennan1865gg67O
 Mclennan1865gg67O_MS
@@ -95923,11 +96116,23 @@ MemoirsQueensla12HamlB
 MemoirsQueensla13Haml
 MemoirsQueensla13HamlA
 MemoirsQueensla13HamlB
+MemoirsQueensla13HamlC
+MemoirsQueensla13HamlD
+MemoirsQueensla13HamlE
+MemoirsQueensla14Haml
+MemoirsQueensla14HamlA
+MemoirsQueensla14HamlB
+MemoirsQueensla14HamlC
+MemoirsQueensla14HamlD
 MemoirsQueensla15Haml
 MemoirsQueensla15HamlA
 MemoirsQueensla15HamlB
 MemoirsQueensla15HamlC
+MemoirsQueensla16Haml
+MemoirsQueensla16HamlA
+MemoirsQueensla18Haml
 MemoirsQueensla19Haml
+MemoirsQueensla19HamlA
 MemoirsQueensla1Haml
 MemoirsQueensla20Haml
 MemoirsQueensla20HamlA
@@ -99845,6 +100050,7 @@ mobot31753000796026
 mobot31753000796083
 mobot31753000796125
 mobot31753000796208
+mobot31753000796364
 mobot31753000796372
 mobot31753000797297
 mobot31753000797321
@@ -100841,7 +101047,6 @@ mobot31753002218342
 mobot31753002218359
 mobot31753002218367
 mobot31753002218375
-mobot31753002218383
 mobot31753002219860
 mobot31753002219969
 mobot31753002219993
@@ -103443,6 +103648,7 @@ mobot31753003456362
 mobot31753003456404
 mobot31753003458079
 mobot31753003459721
+mobot31753003459846
 mobot31753003462675
 mobot31753003465710
 mobot31753003466353
@@ -104463,6 +104669,7 @@ mobot31753003743512
 mobot31753003743520
 mobot31753003743546
 mobot31753003743553
+mobot31753003745723
 mobot31753003751598
 mobot31753003753644
 mobot31753003757439
@@ -106849,6 +107056,8 @@ monographonsubcl01darw
 monographonsubcl02darw
 monographontermi40seev
 monographParadi00Elli
+MonographParadiv1Shar
+MonographParadiv2Shar
 monographpheasa1Beeb
 monographpheasa2Beeb
 monographpheasa3Beeb
@@ -107426,6 +107635,7 @@ morganhorsesprem01lins
 morilleregaldesg00cana
 moritziadcboragi362gent
 morphogenetische00garb
+morphologicalbeh00beye
 morphologicalcom00kend
 morphologicaleco18inge
 morphologicalpar5116sega
@@ -107515,6 +107725,7 @@ morphologyofinte294wern
 morphologyofinve00petr
 morphologyofinve00petruoft
 morphologyofinve16petr
+morphologyofliqu00scha
 morphologyofostr21kesl
 morphologyofpter00spor
 morphologyofrupp00grav
@@ -110156,6 +110367,7 @@ naturwissenschaf34deut
 naturwissenschaf35deut
 naturwissenschaf36deut
 naturwissenschaf37deut
+naturwissenschaf3940unse
 naturwissenschaf41889deut
 naturwissenschaf51890deut
 naturwissenschaf61891deut
@@ -112096,6 +112308,7 @@ noaatechnicalr7821984unit
 noaatechnicalr7831984unit
 noaatechnicalrep633unit
 noaatechnicalrep634unit
+noaatechnicalrep635unit
 noaatechnicalrep636unit
 noaatechnicalrep637unit
 noaatechnicalrep639unit
@@ -116408,6 +116621,9 @@ organologischess00bisc
 oribatidae00mich
 oribatidae03mich
 oribioqlce61voth
+orientalannualor11834dani
+orientalannualor21835dani
+orientalannualor31836dani
 orientalartofcha00eldr
 Orientalcommerc00Milb
 orientalfrillpig00mach
@@ -118429,6 +118645,7 @@ paxtonsmagazineo61840paxt
 paxtonsmagazineo71840paxt
 paxtonsmagazineo71841paxt
 paxtonsmagazineo81841paxt
+paxtonsmagazineo81842paxt
 paxtonsmagazineo91842paxt
 paxtonsmagazineo91843paxt
 pbelloniicenoman00belo
@@ -118810,7 +119027,12 @@ perkins59581981
 perkins59582018
 perkins59582027
 perkins59582399
+perkins59582483
+perkins59582522
 perkins59582559
+perkins59582586
+perkins59582595
+perkins59582634
 perkins59582661
 perkins59582670
 perkins59583930
@@ -118842,6 +119064,7 @@ perkins59589651
 perkins59589772
 perkins59589790
 perkins59589811
+perkins59589857
 perkins59589884
 perkins59589941
 perkins59589987
@@ -118849,7 +119072,9 @@ perkins59680147
 perkins59680222
 perkins59680240
 perkins59680295
+perkins59680334
 perkins59680352
+perkins59680361
 perkins59680370
 perkins59680428
 perkins59680473
@@ -118879,6 +119104,7 @@ perkins67089437
 perkins68007634
 perkins68007746
 perkins69059069
+perkins69059078
 perkins69059087
 perkins73098663
 perkins73098971
@@ -120824,6 +121050,7 @@ pleistocenedepos00cushrich
 pleistocenedepos00pugh
 pleistocenedepos00pughrich
 pleistoceneholoc00rhod
+pleistocenemamma00ranc
 pleistoceneofmid00hayo
 pleistoceneofnor00hayouoft
 pleistocenestudi55711leig
@@ -123220,6 +123447,7 @@ privateforestry129grav
 privatelessonso00ruth
 privatelessonson00ruth
 privateprescrip00lowr
+privateprescript00lowr
 privateprotected96watk
 privatestableits00garl
 privatestableits00garlrich
@@ -123347,6 +123575,7 @@ proceedings10dorsuoft
 proceedings10novauoft
 proceedings10roya
 proceedings10royauoft
+proceedings1118801882roya
 proceedings118261833geol
 proceedings118541858roya
 proceedings11dave
@@ -127321,6 +127550,7 @@ ramblesinsearcho00pluerich
 ramblesnaturalist00godmrich
 ramblesofaustra00ward
 ramblesofaustral00wardrich
+ramblesofcanadia00wood
 ramblesofcanadia00woodrich
 ramblesofcanadia00wooduoft
 ramblesofdominie00knigrich
@@ -127961,6 +128191,7 @@ recordofsomeofwo08vase
 recordofunfashio00heal
 recordofunfashio00healrich
 recordsalba01alba
+RecordsAustrali1Aust
 RecordsAustrali5Aust
 recordsmeasureme2013sanb
 recordsofamerica01amer
@@ -128390,6 +128621,7 @@ regulationoftoba01unit
 regulationoftoba02unit
 regulationoftoba03unit
 regulationsadopt00alab
+regulationsadopt00illi
 regulationsforco00nort
 regulationsforse00brit
 regulationsforta00unit
@@ -128459,6 +128691,7 @@ reisenachdeninse00ledr
 reisenachdeninse00ledr2
 reisenachdenspan00lfli
 reisenachhudsons00elli
+Reiseneinesnatu00Burg
 reisenimsdenvo01radd
 reisenimsdenvo02radd
 reiseninbritisch03scho
@@ -132781,6 +133014,7 @@ roughbarkdisease280robe
 roughheadedcorns1267phil
 roughingitinsout00handrich
 RoughnotesonBir00BootA
+RoughnotesonBir00BootB
 roughnotestaken00head
 roughstonemonume00peetrich
 roughtumbleengin00magguoft
@@ -133853,6 +134087,8 @@ schriften333418921893phys
 schriften353718941896phys
 schriften383918971898phys
 schriften414219001901phys
+schriften464719051906phys
+schriften484919071908phys
 schriften555719141916phys
 schriften586319171922phys
 schriftend26518851910phys
@@ -136827,6 +137063,7 @@ smallholdingsofe00wilkuoft
 smallhorsesinwar00gilb
 smallhorsesinwar00gilbrich
 smallmammalsblack00kepn
+smallmammalsofam00malc
 smallmammalsofbe445medi
 smallmammalsofco00warriala
 smallmouthedbass00loud
@@ -142051,6 +142288,7 @@ surveyideaincoun00bail
 surveyideaincoun00bailrich
 surveyillustrate00turn
 surveyofancientp00meanrich
+surveyofappleclo3437fish
 surveyofaspensta340harn
 surveyofbannacks00vandrich
 surveyofbatsofde00buttrich
@@ -142062,6 +142300,7 @@ surveyofcoastalr00mcca
 surveyofdiseases00kien
 surveyofecologic00jenk
 surveyofeffectso54lind
+surveyofextentco3423dani
 surveyofextentco3423saun
 surveyoffactorsa174ryke
 surveyoffertiliz798gold
@@ -147281,13 +147520,16 @@ travelsintonorth01inkalm
 travelsintonorth01kalm
 travelsintonorth01kalm_0
 travelsintonorth01kalm_1
+travelsintonorth01kalm_2
 travelsintonorth01kalmrich
 travelsintonorth02inkalm
 travelsintonorth02kalm
 travelsintonorth02kalm_0
+travelsintonorth02kalm_1
 travelsintonorth02kalmrich
 travelsintonorth03inkalm
 travelsintonorth03kalm_0
+travelsintonorth03kalm_1
 travelsintonorth03kalmrich
 travelsintreeto00abbo
 travelsintreetop00abbo
@@ -148581,6 +148823,7 @@ ueberdeneinfluss00lang
 ueberdeneinfluss00unge
 ueberdengangder00prin
 ueberdengangderm00prin
+UeberdenHaushal00Naum
 ueberdenkreislau00kili
 ueberdenpollen01frit
 ueberdenraupenfr00henn
@@ -151173,6 +151416,7 @@ viagealasregio05humb
 viagelaisladepue00ledr
 viagelasregiones21826humb
 viagelasregiones31826humb
+Viagemaoredordo1Fons
 viagempelointeri00simouoft
 viagensdecaada00cunhuoft
 viaggioallagodig00poll
@@ -156040,6 +156284,17 @@ zeitschriftfurna8219natu
 zeitschriftfurna8319natu
 zeitschriftfurna8519natu
 zeitschriftfurna8619natu
+zeitschriftfuroo1019unse
+zeitschriftfuroo1189unse
+zeitschriftfuroo1519unse
+zeitschriftfuroo2189unse
+zeitschriftfuroo3189unse
+zeitschriftfuroo4189unse
+zeitschriftfuroo5189unse
+zeitschriftfuroo6189unse
+zeitschriftfuroo7189unse
+zeitschriftfuroo8189unse
+zeitschriftfuroo9189unse
 zeitschriftfursa3219deut
 zeitschriftfursa4419deut
 zeitschriftfurw1218unse_1
